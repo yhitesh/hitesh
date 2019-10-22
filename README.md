@@ -1,6 +1,6 @@
 # include<studeo.h>
 int main()
 {
-print(Hello world);
+printf(Hello world);
 return;
 }
